@@ -36,8 +36,8 @@ Following https://forums.developer.nvidia.com/t/object-detection-with-jetson-nan
   cd ..                                                                                               (done)
 
 5. Install EasyOCR
-  cd EasyOCR
-  sudo python3 setup.py install
+  cd EasyOCR                                                                                          (done)
+  sudo python3 setup.py install                                                                       (done)
 
 6. Testing
   python3 easy_ocr_demo.py /home/nvidia/scene-text-recognition/docs/images/
