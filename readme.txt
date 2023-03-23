@@ -31,9 +31,9 @@ Following https://forums.developer.nvidia.com/t/object-detection-with-jetson-nan
   pip3 install -r requirements.txt                                                                    (done)    
   
 4. Install torch2trt
-  cd torch2trt 
-  sudo python3 setup.py install --plugins
-  cd ..
+  cd torch2trt                                                                                        (done)          
+  sudo python3 setup.py install --plugins                                                             (done)
+  cd ..                                                                                               (done)
 
 5. Install EasyOCR
   cd EasyOCR
