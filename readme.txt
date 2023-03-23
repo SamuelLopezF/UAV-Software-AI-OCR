@@ -27,7 +27,7 @@ Following https://forums.developer.nvidia.com/t/object-detection-with-jetson-nan
 3. Install pytorch, torchvision
   wget https://raw.githubusercontent.com/tomek-l/jetson-install-pytorch/master/install_torch_v1.9.sh  (done)
   sed -i 's/# install_torch/install_torch/g' install_torch_v1.9.sh                                    (done)
-  bash install_torch_v1.9.sh                                                              (left in progress)
+  bash install_torch_v1.9.sh                                                                          (done)
   pip3 install -r requirements.txt                                                                        
   
 4. Install torch2trt
