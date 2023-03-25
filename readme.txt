@@ -41,4 +41,4 @@ Following https://forums.developer.nvidia.com/t/object-detection-with-jetson-nan
 
 6. Testing
   python3 easy_ocr_demo.py /home/nvidia/scene-text-recognition/docs/images/
-![Screenshot from 2023-03-24 21-46-51](https://user-images.githubusercontent.com/43799537/227679543-7aa05120-c046-45c4-87ba-dce2727e1db1.png)
+
